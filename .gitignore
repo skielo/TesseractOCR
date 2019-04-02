@@ -2,3 +2,4 @@
 packages/
 TesseractOCR/bin/
 TesseractOCR/obj/
+tessdata/
